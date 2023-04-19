@@ -58,7 +58,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/dhananjaypai08/CrimeBoundToken/
+git clone https://github.com/hrishi0102/Certify.git
 ```
 
 2. Installing dependencies and requirements
